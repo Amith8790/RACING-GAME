@@ -1,2 +1,0 @@
-# RACING-GAME
-# Amith Game 
